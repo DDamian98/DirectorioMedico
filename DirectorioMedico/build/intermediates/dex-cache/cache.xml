@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_a4cd6a1d814f60e1bccdcfad41185ecd9e68a7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_28c8d518af95525f88e6d8e5f1982b691c1231c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_fd91a3fe55e0bb057f6550169639024ae72764b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ee323205da75fd9545a0761ae89d7eff54051340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_00b278edf41ed22bea262665b7cd114a2bfbfbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_75220ab0354d995d2a4f7cd902af8bb58c2a44a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_8623990dd6009a74370ef7c4f465bceb0580bc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\glide-3.8.0_b8e9ed52caa199e632e5ab8f9d45341dbb4bf61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_3b91bf0b01ddeed16282bea19684f5a17e9081ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_767f05899ed772a2e3adfc9b925de55fa5ded327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_b157c4813e841c99ab87c63bb7204a2a2c57e34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_4a888abc5aa504eb5260ee115a6a9a0e8f48de4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_b70fd4276d2e989ed6f1d48dff26e8a35c143732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\USERUPT\Desktop\DirectorioMedico\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_055b208e1df5a46f6866bcfc1da3f65a16628a6e.jar" />
+    </item>
+
+</items>
